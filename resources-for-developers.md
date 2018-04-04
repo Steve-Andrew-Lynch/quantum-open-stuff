@@ -7,7 +7,7 @@ on Python) - [https://projectq.ch/](https://projectq.ch/)
 
 LIQUi|&gt; : LIQUi|&gt; is a software architecture and
 toolsuite for quantum computing. Includes a programming language, optimization
-algorithms, and quantum simulators - [https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/](https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/)
+algorithms, and quantum simulators - [https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/](https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/) & [GitHub](http://stationq.github.io/Liquid/)
 
 Microsoft Quantum Developer Kit: Samples and Libraries &
 the Q# programming language - [https://github.com/Microsoft/Quantum](https://github.com/Microsoft/Quantum)
