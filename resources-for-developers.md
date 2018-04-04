@@ -17,17 +17,3 @@ large quadratic unconstrained binary optimization (QUBO) problem - [https://gith
 
 OpenFermion: Translating problems in chemistry and materials
 science into simulated quantum circuits - [https://github.com/quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion)
-
-
-### Interesting projects for researchers:
-
-QuTiP is open-source software for simulating the dynamics of
-open quantum systems - [http://qutip.org/](http://qutip.org/)
-
-
-### Interesting quantum crypto projects:
-
-Microsoft Supersingular Isogeny Diffie Hellman Library
-(SIDH) - [https://www.microsoft.com/en-us/research/project/sidh-library/](https://www.microsoft.com/en-us/research/project/sidh-library/)
-
-New Hope: Post-quantum key exchange - [https://github.com/Yawning/newhope/](https://github.com/Yawning/newhope/)
