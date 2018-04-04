@@ -20,6 +20,6 @@ Quantum Open Stuff is a running list of quantum computing-related open source so
 
 [Quantum-Safe (maybe!) Cryptography Projects](https://github.com/Steve-Andrew-Lynch/quantum-open-stuff/blob/master/crypto-projects.md)
 
-*In the News*
+## In the News ##
 
 [A neat article on one of the first uses of quantum cryptography at MIT Technology Review, via arXiv](https://www.technologyreview.com/s/610106/chinese-satellite-uses-quantum-cryptography-for-secure-video-conference-between-continents/)
